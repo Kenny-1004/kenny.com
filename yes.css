@@ -1,0 +1,25 @@
+body{
+    background-color: pink;
+
+}
+
+h1{
+    position: absolute;
+    top: 60%;
+    left: 32%;
+}
+
+.gif{
+    width: 15%;
+    position: absolute;
+    top: 30%;
+    left: 42%;
+}
+
+.fireworks{
+    position: absolute;
+    top: 15%;
+    left: 25%;
+    width: 50%;
+
+}
